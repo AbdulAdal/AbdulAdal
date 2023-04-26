@@ -11,10 +11,10 @@ I'm a 2nd year Computer Science student at King's College London, driven by a pa
 
 **Programming Languages:**
 
-Scala
-C++
-Python
-Java
+*Scala*
+*C*
+### Python
+### Java
 
 
 **Web Development:**
