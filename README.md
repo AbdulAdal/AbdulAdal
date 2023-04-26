@@ -11,16 +11,17 @@ I'm a 2nd year Computer Science student at King's College London, driven by a pa
 
 **Programming Languages:**
 
-*Scala*
-*C*
+### Scala
+### C++
 ### Python
 ### Java
 
 
 **Web Development:**
-Django
-HTML
-JavaScript
-React
-Express
-Prisma
+
+### Django
+### HTML
+### JavaScript
+### React
+### Express
+### Prisma
